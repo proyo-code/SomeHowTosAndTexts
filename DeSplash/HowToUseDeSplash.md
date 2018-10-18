@@ -6,8 +6,7 @@
 2. Select a preferred Picture Orientation
 3. Select preferred Picture Quality
 4. Save Settings to load new images
-5. Don't forget to save the settings, every time you change any settings
-6. Now, Turn on DeSplash and minimize the app.
+5. Now, Turn on DeSplash and minimize the app.
 
 After that, every time you lock-unlock your phone, a new wallpapaper will be set...
 Add DeSplash into your Task Killer's whitelist.
