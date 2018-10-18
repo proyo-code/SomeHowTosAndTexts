@@ -9,7 +9,7 @@
 5. Now, Turn on DeSplash and minimize the app.
 
 After that, every time you lock-unlock your phone, a new wallpapaper will be set...
-Add DeSplash into your Task Killer's whitelist.
+If you're using any task killer, add DeSplash into your Task Killer's whitelist.
 
 Thank you for using DeSplash
 
