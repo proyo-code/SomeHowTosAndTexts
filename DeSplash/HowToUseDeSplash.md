@@ -9,5 +9,7 @@
 5. Turn on "Save images" if you want to save the images automatically
 6. Now lock your phone to see the surprises :)
 
+For better user experience, add it to your task killer's white list...
+
 Thank you for using DeSplash...
 ```
