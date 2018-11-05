@@ -3,7 +3,7 @@
 ## How to use
 ```
 1. Select a Picture Category
-2. Select a preferred Picture Orientation
+2. Select preferred Picture Orientation
 3. Select preferred Picture Quality
 4. Turn on DeSplash
 5. Turn on "Save images" if you want to save the images automatically
