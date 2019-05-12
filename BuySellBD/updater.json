@@ -1,4 +1,5 @@
 {
-	versionCode: 1,
-	forceUpdate: false
+	"versionCode": 1,
+	"forceUpdate": false,
+	"url": "http://tiny.cc/BuySellBD"
 }
