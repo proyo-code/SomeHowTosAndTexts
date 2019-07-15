@@ -1,6 +1,6 @@
 {
 	"versionCode": 1,
-	"calcellable": false,
+	"cancellable": false,
 	"url": "https://github.com/p32929/OurOfficeApp",
 	"mac": "d8:fe:e3:76:0c:be",
 	"timeDiff": 840,
