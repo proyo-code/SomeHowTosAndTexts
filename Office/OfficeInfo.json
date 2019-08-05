@@ -8,10 +8,16 @@
     "webUrl": "https://p32929.github.io/Portfolio/",
     "members": [
         {
-            "imageUrl": "https://scontent.fcgp3-1.fna.fbcdn.net/v/t1.0-9/61069086_2465569913454726_6242359099263025152_n.jpg?_nc_cat=100&_nc_eui2=AeE08W4JxHQM5kdcBSu_DMnyQhiOIeVI7htWSilF60wOqofAU5lz6mD6cEi0j4Ffw-cIKMF0PyZJ6o9NcI4wbXxTykihh0CdDLMk5P6P5hm3AA&_nc_oc=AQklh0l53rvvGnV6yu1on1aQPKphOIWhWwOAZZfk5A4nyP0cxYvAOECJzZioFRDzS3s&_nc_ht=scontent.fcgp3-1.fna&oh=3014624cc68591b9822150ccdd80e739&oe=5DE20B4A",
+            "imageUrl": "https://avatars1.githubusercontent.com/u/6418354?s=460&v=4",
             "name": "Fayaz Bin Salam",
             "post": "Founder & CEO",
             "contactUrl": "https://www.facebook.com/p32929"
+        },
+        {
+            "imageUrl": "https://user-images.githubusercontent.com/6418354/62444430-4782e100-b77f-11e9-9b5e-d6407d8b2324.jpg",
+            "name": "Arfatul Mowla Shuvo",
+            "post": "Software Developer",
+            "contactUrl": "https://www.facebook.com/mowla.shuvo"
         }
     ]
 }
