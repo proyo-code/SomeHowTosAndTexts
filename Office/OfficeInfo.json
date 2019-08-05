@@ -30,6 +30,13 @@
             "name": "Xenon",
             "post": "Software Developer",
             "contactUrl": "https://www.facebook.com/plabon.shuvo1"
+        },
+        {
+            "imageUrl": "https://user-images.githubusercontent.com/6418354/62446648-13aaba00-b785-11e9-8d7a-1daca91beb77.jpg",
+            "name": "Misbah",
+            "post": "Software Developer",
+            "contactUrl": ""
         }
+        
     ]
 }
