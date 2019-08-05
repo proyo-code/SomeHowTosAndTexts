@@ -1,8 +1,32 @@
 [
 	{
-		"appName": "Ekta nam arki emne",
 		"appIcon": "https://lh3.googleusercontent.com/vvp6Ev33xPerWBBOtIRyAHl7k5c4wQ72hGwG3EU4JC-BTjfvb5DSJDeMABaRg0fy_KI",
-		"appDescription": "Best Phone Addiction Controller",
+		"appName": "Lorem ipsum dolor",
+		"appDescription": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups",
+		"url": "https://play.google.com/store/apps/details?id=p32929.lazyphone"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/vvp6Ev33xPerWBBOtIRyAHl7k5c4wQ72hGwG3EU4JC-BTjfvb5DSJDeMABaRg0fy_KI",
+		"appName": "Lorem ipsum dolor",
+		"appDescription": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups",
+		"url": "https://play.google.com/store/apps/details?id=p32929.lazyphone"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/vvp6Ev33xPerWBBOtIRyAHl7k5c4wQ72hGwG3EU4JC-BTjfvb5DSJDeMABaRg0fy_KI",
+		"appName": "Lorem ipsum dolor",
+		"appDescription": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups",
+		"url": "https://play.google.com/store/apps/details?id=p32929.lazyphone"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/vvp6Ev33xPerWBBOtIRyAHl7k5c4wQ72hGwG3EU4JC-BTjfvb5DSJDeMABaRg0fy_KI",
+		"appName": "Lorem ipsum dolor",
+		"appDescription": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups",
+		"url": "https://play.google.com/store/apps/details?id=p32929.lazyphone"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/vvp6Ev33xPerWBBOtIRyAHl7k5c4wQ72hGwG3EU4JC-BTjfvb5DSJDeMABaRg0fy_KI",
+		"appName": "Lorem ipsum dolor",
+		"appDescription": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups",
 		"url": "https://play.google.com/store/apps/details?id=p32929.lazyphone"
 	}
 ]
