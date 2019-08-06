@@ -22,5 +22,11 @@
 		"appName": "The Great Postman",
 		"appDescription": "Best REST API Client for Android",
 		"url": "https://play.google.com/store/apps/details?id=p32929.lazyphone"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/ni-lk3b2nTMZyC7r1wYBW6cm9eYqGAN-t6fXV-kD0lSyw1lO3kenC1We71fZjSryvFII",
+		"appName": "ExIn",
+		"appDescription": "A very simple Income-Expense tracker",
+		"url": "https://play.google.com/store/apps/details?id=p32929.lazyphone"
 	}
 ]
