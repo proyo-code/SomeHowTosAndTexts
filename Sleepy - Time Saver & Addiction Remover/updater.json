@@ -1,5 +1,5 @@
 {
 	"versionCode": 27,
-	"forceUpdate": false,
+	"cancellable": true,
 	"url": "https://play.google.com/store/apps/details?id=p32929.lazyphone"
 }
