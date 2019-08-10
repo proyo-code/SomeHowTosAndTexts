@@ -1,5 +1,5 @@
 {
 	"versionCode": 8,
-	"forceUpdate": false,
+	"cancellable": false,
 	"url": "http://tiny.cc/apkdownloader"
 }
