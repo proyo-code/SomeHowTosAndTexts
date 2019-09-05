@@ -37,6 +37,12 @@
             "name": "Misbah",
             "post": "Software Developer",
             "contactUrl": ""
+        },
+        {
+            "imageUrl": "https://user-images.githubusercontent.com/6418354/64313087-53ef9900-cfcc-11e9-9c7c-2e9d08dff83e.jpg",
+            "name": "Dany",
+            "post": "Software Developer",
+            "contactUrl": "https://www.facebook.com/dany.barua.391"
         }
     ]
 }
