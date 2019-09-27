@@ -34,5 +34,11 @@
 		"appName": "ExIn",
 		"appDescription": "A very simple Income-Expense tracker",
 		"url": "https://play.google.com/store/apps/details?id=p32929.exin"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/5Hdv5QGmGjlqxNhnEk7YGeTS6lNxUOy3P2UUhk54jG2QhMNnnNnipF4ZUNexL5haF9E",
+		"appName": "জীবনানন্দ দাশের কবিতা সমগ্র",
+		"appDescription": "৫০টিরও অধিক জীবনান্দ দাসের কবিতা এবং আবৃতি",
+		"url": "https://play.google.com/store/apps/details?id=org.richit.jibonandokobitasomogro"
 	}
 ]
