@@ -2,10 +2,15 @@
     "officeLogoUrl": "https://user-images.githubusercontent.com/6418354/62771043-1af00180-babe-11e9-8830-7904a358ccc0.png",
     "links": [
         {
-            "imageUrl": "https://cdn3.iconfinder.com/data/icons/social-icons-5/606/Facebook.png",
+            "imageUrl": "https://cdn3.iconfinder.com/data/icons/social-icons-5/606/Like.png",
             "name": "Facebook Page",
             "url": "https://www.facebook.com/rich.it.ctg",
             "alt": "fb://page/104754327537968"
+        },
+        {
+            "imageUrl": "https://cdn3.iconfinder.com/data/icons/social-icons-5/606/Facebook.png",
+            "name": "Facebook Group",
+            "url": "https://www.facebook.com/groups/518485748694084/"
         }
     ],
     "members": [
