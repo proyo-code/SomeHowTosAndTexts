@@ -1,0 +1,43 @@
+{
+    "officeLogoUrl": "https://user-images.githubusercontent.com/6418354/62771043-1af00180-babe-11e9-8830-7904a358ccc0.png",
+    "links": [
+        {
+            "imageUrl": "https://image.flaticon.com/icons/svg/145/145802.svg",
+            "name": "Facebook Page",
+            "url": "https://www.facebook.com/rich.it.ctg",
+            "alt": "fb://page/104754327537968"
+        }
+    ],
+    "members": [
+        {
+            "imageUrl": "https://avatars1.githubusercontent.com/u/6418354?s=460&v=4",
+            "name": "Fayaz Bin Salam",
+            "designation": "Founder & CEO",
+            "contactInfo": "https://www.facebook.com/p32929"
+        },
+        {
+            "imageUrl": "https://user-images.githubusercontent.com/6418354/62595278-92c3fd80-b8ff-11e9-89b1-8a4b0d3fbae4.jpg",
+            "name": "Arfatul Mowla Shuvo",
+            "designation": "Software Developer",
+            "contactInfo": "https://www.facebook.com/mowla.shuvo"
+        },
+        {
+            "imageUrl": "https://user-images.githubusercontent.com/6418354/62595290-a0798300-b8ff-11e9-9b78-ea9262f4bf94.JPG",
+            "name": "Xenon",
+            "designation": "Software Developer",
+            "contactInfo": "https://www.facebook.com/plabon.shuvo1"
+        },
+        {
+            "imageUrl": "https://user-images.githubusercontent.com/6418354/62595321-bdae5180-b8ff-11e9-8b44-3378b8a88ce3.jpg",
+            "name": "Misbah",
+            "designation": "Software Developer",
+            "contactInfo": ""
+        },
+        {
+            "imageUrl": "https://user-images.githubusercontent.com/6418354/64313087-53ef9900-cfcc-11e9-9c7c-2e9d08dff83e.jpg",
+            "name": "Dany",
+            "designation": "Software Developer",
+            "contactInfo": "https://www.facebook.com/dany.barua.391"
+        }
+    ]
+}
