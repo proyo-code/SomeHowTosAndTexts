@@ -31,13 +31,13 @@
     "members": [
         {
             "imageUrl": "https://avatars1.githubusercontent.com/u/6418354?s=460&v=4",
-            "name": "Fayaz Bin Salam",
+            "name": "Fayaz",
             "designation": "Founder & CEO",
             "contactInfo": "https://www.facebook.com/p32929"
         },
         {
             "imageUrl": "https://user-images.githubusercontent.com/6418354/62595278-92c3fd80-b8ff-11e9-89b1-8a4b0d3fbae4.jpg",
-            "name": "Arfatul Mowla Shuvo",
+            "name": "Shuvo",
             "designation": "Software Developer",
             "contactInfo": "https://www.facebook.com/mowla.shuvo"
         },
@@ -58,6 +58,12 @@
             "name": "Dany",
             "designation": "Software Developer",
             "contactInfo": "https://www.facebook.com/dany.barua.391"
+        },
+        {
+            "imageUrl": "https://user-images.githubusercontent.com/6418354/65836078-3b934580-e310-11e9-988d-7d3f78d286c5.jpg",
+            "name": "Rayhan",
+            "designation": "Software Developer",
+            "contactInfo": "https://www.facebook.com/mdrayhan9464"
         }
     ]
 }
