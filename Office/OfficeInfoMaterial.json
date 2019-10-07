@@ -31,39 +31,45 @@
     "members": [
         {
             "imageUrl": "https://avatars1.githubusercontent.com/u/6418354?s=460&v=4",
-            "name": "Fayaz",
+            "name": "Fayaz Bin Salam",
             "designation": "Founder & CEO",
             "contactInfo": "https://www.facebook.com/p32929"
         },
         {
             "imageUrl": "https://user-images.githubusercontent.com/6418354/62595278-92c3fd80-b8ff-11e9-89b1-8a4b0d3fbae4.jpg",
-            "name": "Shuvo",
+            "name": "Arfatul Mowla Shuvo",
             "designation": "Software Developer",
             "contactInfo": "https://www.facebook.com/mowla.shuvo"
         },
         {
             "imageUrl": "https://user-images.githubusercontent.com/6418354/62595290-a0798300-b8ff-11e9-9b78-ea9262f4bf94.JPG",
-            "name": "Xenon",
+            "name": "Plabon Dey",
             "designation": "Software Developer",
             "contactInfo": "https://www.facebook.com/plabon.shuvo1"
         },
         {
             "imageUrl": "https://user-images.githubusercontent.com/6418354/62595321-bdae5180-b8ff-11e9-8b44-3378b8a88ce3.jpg",
-            "name": "Misbah",
+            "name": "Misbah Uddin",
             "designation": "Software Developer",
             "contactInfo": ""
         },
         {
             "imageUrl": "https://user-images.githubusercontent.com/6418354/64313087-53ef9900-cfcc-11e9-9c7c-2e9d08dff83e.jpg",
-            "name": "Dany",
+            "name": "Dany Barua",
             "designation": "Software Developer",
             "contactInfo": "https://www.facebook.com/dany.barua.391"
         },
         {
             "imageUrl": "https://user-images.githubusercontent.com/6418354/65836078-3b934580-e310-11e9-988d-7d3f78d286c5.jpg",
-            "name": "Rayhan",
+            "name": "Md Rayhan",
             "designation": "Software Developer",
             "contactInfo": "https://www.facebook.com/mdrayhan9464"
+        },
+        {
+            "imageUrl": "https://avatars0.githubusercontent.com/u/32830917?s=460&v=4",
+            "name": "Md Razaul Munir",
+            "designation": "Software Developer",
+            "contactInfo": "https://www.facebook.com/profile.php?id=100004679028741"
         }
     ]
 }
