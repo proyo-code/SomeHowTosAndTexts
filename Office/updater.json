@@ -1,11 +1,11 @@
 {
-	"versionCode": 36,
+	"versionCode": 38,
 	"cancellable": false,
 	"url": "",
 	"mac": "Rich IT",
-	"timeDiff": 150,
+	"timeDiff": 135,
 	"bossFb": "p32929",
 	"bossPhoneNo": "+8801796306262",
 	"ip": "United States",
-	"how": "...::: Office App Rules :::...\n* Check NOTICES everyday before coming to the office\n* After entering the office room, first set your IP to the defined country\n* Click ENTERED OFFICE after the successful IP setting\n* Everyday you must to see at least 40 magics\n* Before going home, click GOING HOME\n\n...::: Optional :::...\n* You can call/message your colleagues from COLLEAGUES\n* You can inform the CEO in advance ( If you need to ) from INFORM CEO\n* You can see your profile from PROFILE\n* You can logout from LOGOUT\n* You can see the updated Office App rules by clicking RULES\n"
+	"how": "...::: Office App Rules :::...\n* Check NOTICES everyday before coming to the office\n* After entering the office room, first set your IP to the defined country\n* Click ENTERED OFFICE after the successful IP setting\n* Everyday you must to see at least 40 magics and click 10 times\n* Before going home, click GOING HOME\n\n...::: Optional :::...\n* You can call/message your colleagues from COLLEAGUES\n* You can inform the CEO in advance ( If you need to ) from INFORM CEO\n* You can see your profile from PROFILE\n* You can logout from LOGOUT\n* You can see the updated Office App rules by clicking RULES\n"
 }
