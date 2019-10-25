@@ -1,9 +1,9 @@
 {
-	"versionCode": 50,
+	"versionCode": 51,
 	"cancellable": false,
 	"mac": "Rich IT",
 	"timeDiff": 130,
-	"MMTSPD": 60,
+	"MMTSPD": 55,
 	"MMTCPD": 10,
 	"MSATCPD": 10,
 	"bossFb": "p32929",
