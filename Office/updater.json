@@ -1,11 +1,11 @@
 {
-	"versionCode": 49,
+	"versionCode": 50,
 	"cancellable": false,
 	"mac": "Rich IT",
 	"timeDiff": 130,
 	"MMTSPD": 60,
 	"MMTCPD": 10,
-	"MSATCPD": 5,
+	"MSATCPD": 10,
 	"bossFb": "p32929",
 	"bossPhoneNo": "+8801796306262",
 	"message": "New update available. Download from Slack - General channel",
