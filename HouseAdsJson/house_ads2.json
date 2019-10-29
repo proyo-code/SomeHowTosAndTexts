@@ -58,5 +58,11 @@
 		"appName": "Contact Hospitals",
 		"appDescription": "Find a hospital near you with a simple search",
 		"url": "https://play.google.com/store/apps/details?id=org.richit.contacthospitals"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/-GsghUClNfbaenELQN4jlX4RXN3fSZPd2sv2eIL3TVpdu-gntue1FmzsZUXISpKuAHo=s180",
+		"appName": "BirdsLover",
+		"appDescription": "Learn about a lot of birds with their description, scientific name, tweeting sound, image, and more",
+		"url": "https://play.google.com/store/apps/details?id=org.richit.birdslover"
 	}
 ]
