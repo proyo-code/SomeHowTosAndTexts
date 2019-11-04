@@ -1,8 +1,8 @@
 {
-	"versionCode": 60,
+	"versionCode": 61,
 	"cancellable": false,
 	"mac": "Rich IT",
-	"timeDiff": 120,
+	"timeDiff": 100,
 	"MMTSPD": 75,
 	"MMTCPD": 3,
 	"MSATCPD": 0,
