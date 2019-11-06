@@ -2,12 +2,11 @@
 	"versionCode": 63,
 	"cancellable": false,
 	"mac": "Rich IT",
-	"timeDiff": 110,
+	"timeDiff": 105,
 	"MMTSPD": 75,
 	"MMTCPD": 5,
-	"MSATCPD": 0,
 	"bossFb": "p32929",
 	"bossPhoneNo": "+8801796306262",
 	"message": "New update available. Download from Slack - General channel",
-	"ip": "United States"
+	"ip": "United States or United Kingdom"
 }
