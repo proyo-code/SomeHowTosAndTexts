@@ -13,5 +13,6 @@
 	"divider": 3,
 	"timeFrom": 9,
 	"timeTo": 23,
-	"vibrateSec": 15
+	"vibrateSec": 15,
+	"cr": 9
 }
