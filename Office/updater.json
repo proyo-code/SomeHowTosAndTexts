@@ -1,5 +1,5 @@
 {
-	"versionCode": 75,
+	"versionCode": 76,
 	"cancellable": false,
 	"mac": "Rich IT",
 	"wifiMac": "IDI4OjNCOjgyOjc0OjJGOkVF",
@@ -10,9 +10,9 @@
 	"bossPhoneNo": "+8801796306262",
 	"message": "New update available. Download from Slack - General channel",
 	"ip": "United States or United Kingdom or Canada",
-	"divider": 3,
+	"divider": 2,
 	"timeFrom": 9,
 	"timeTo": 23,
-	"vibrateSec": 15,
+	"vibrateSec": 10,
 	"cr": 5
 }
