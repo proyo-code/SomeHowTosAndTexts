@@ -14,5 +14,6 @@
 	"timeFrom": 9,
 	"timeTo": 22,
 	"vibrateSec": 3,
-	"cr": 5
+	"cr": 5,
+	"diffDivider": 10
 }
