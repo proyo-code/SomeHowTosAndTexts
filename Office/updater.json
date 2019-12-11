@@ -10,10 +10,10 @@
 	"bossPhoneNo": "+8801796306262",
 	"message": "New update available. Download from Slack - General channel",
 	"ip": "United States or United Kingdom or Canada",
-	"divider": 5,
+	"divider": 3,
 	"timeFrom": 9,
 	"timeTo": 22,
 	"vibrateSec": 3,
-	"cr": 5,
+	"cr": 10,
 	"diffDivider": 10
 }
