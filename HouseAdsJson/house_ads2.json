@@ -64,5 +64,11 @@
 		"appName": "BirdsLover",
 		"appDescription": "Learn about a lot of birds with their description, scientific name, tweeting sound, image, and more",
 		"url": "https://play.google.com/store/apps/details?id=org.richit.birdslover"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/wdM_eEiBoBu2lu1laDfQYxZFx6XY44-zLHbAMIGiVrfJ0fcR5SqVFAjuNnhoEJaJMQ=s180",
+		"appName": "NCTB Books",
+		"appDescription": "Download and Read all the NCTB books from class 1-10 online/offline easily",
+		"url": "https://play.google.com/store/apps/details?id=org.richit.nctb"
 	}
 ]
