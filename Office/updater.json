@@ -4,7 +4,7 @@
 	"mac": "Rich IT",
 	"wifiMac": "IDI4OjNCOjgyOjc0OjJGOkVF",
 	"timeDiff": 200,
-	"MMTSPD": 5,
+	"MMTSPD": 10,
 	"MMTCPD": 0,
 	"bossFb": "p32929",
 	"bossPhoneNo": "+8801796306262",
@@ -14,6 +14,6 @@
 	"timeFrom": 9,
 	"timeTo": 22,
 	"vibrateSec": 3,
-	"cr": 10,
+	"cr": 9,
 	"diffDivider": 10
 }
