@@ -2,6 +2,11 @@
     "officeLogoUrl": "https://user-images.githubusercontent.com/6418354/62771043-1af00180-babe-11e9-8830-7904a358ccc0.png",
     "links": [
         {
+            "imageUrl": "https://image.flaticon.com/icons/svg/1231/1231223.svg",
+            "name": "Portfolio",
+            "url": "https://p32929.github.io/"
+        },
+        {
             "imageUrl": "https://lh3.googleusercontent.com/2voFzi7OYlzpkMcjtQjnXsJc9MYmqRtRgwtb1UGOGIJMrn_x9JHUNvtP5MEsJw4Uobo",
             "name": "Facebook Page",
             "url": "https://www.facebook.com/rich.it.ctg",
@@ -33,7 +38,7 @@
             "imageUrl": "https://avatars1.githubusercontent.com/u/6418354?s=460&v=4",
             "name": "Fayaz Bin Salam",
             "designation": "Founder & CEO",
-            "contactInfo": "https://www.facebook.com/p32929"
+            "contactInfo": "https://p32929.github.io/"
         },
         {
             "imageUrl": "https://user-images.githubusercontent.com/6418354/62595278-92c3fd80-b8ff-11e9-89b1-8a4b0d3fbae4.jpg",
