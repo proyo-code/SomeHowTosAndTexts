@@ -1,0 +1,19 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "http://tiny.cc/BuySellBD",
+    "data": [
+        {
+            "name": "Angels in Your Presence",
+            "imam": "Imam Omar Suleiman",
+            "url": "https://www.youtube.com/playlist?list=PLQ02IYL5pmhF2LFN-3QxnuregEv1oKPIc",
+            "image": "https://i.ytimg.com/vi/Cg1sHCbzqbg/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDmiGmVAx8HpTX8Kfku2AWWvJa4tQ"
+        },
+        {
+            "name": "The Beginning and the End",
+            "imam": "Imam Omar Suleiman",
+            "url": "https://www.youtube.com/playlist?list=PLutdSTmJ7bALsUhQRrcMIMLXbG6GPXpGv",
+            "image": "https://i.ytimg.com/vi/kd4c7Q6QXYc/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAA8HeBKWE6q77rSHHqCqi4Erjo2w"
+        }
+    ]
+}
